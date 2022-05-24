@@ -1,55 +1,55 @@
 [
   {
     "id": 1,
-    "name": "Båt",
+    "name": "Nimbus 25D",
     "imageUrl": "https://www.batliv.se/wp-content/uploads/2018/10/Nimbus-305-Coupe-6648-768x418.jpg",
     "price": 25000
   },
   {
     "id": 2,
-    "name": "Båt",
+    "name": "Nimbus S500",
     "imageUrl": "https://blog.side-power.com/hs-fs/hubfs/Skjermbilde%202019-10-31%20kl.%2012.54.34.png?width=803&name=Skjermbilde%202019-10-31%20kl.%2012.54.34.png",
     "price": 18000
   },
   {
     "id": 3,
-    "name": "Båt",
+    "name": "Convoyer STS",
     "imageUrl": "http://nordicmarine.se/wp-content/uploads/2019/12/boat2.jpg",
     "price": 35000
   },
   {
     "id": 4,
-    "name": "Båt",
+    "name": "Bella 550SR",
     "imageUrl": "https://mickesmotor.se/wp-content/uploads/2017/12/Bella550BR-768x295.jpg",
     "price": 25000
   },
   {
     "id": 5,
-    "name": "Båt",
+    "name": "Arkip 530",
     "imageUrl": "https://mickesmotor.se/wp-content/uploads/2018/02/linder_530_1k-768x295.jpg",
     "price": 18000
   },
   {
     "id": 6,
-    "name": "Båt",
+    "name": "Sture GS",
     "imageUrl": "https://mickesmotor.se/wp-content/uploads/2019/06/pioner-768x310.jpg",
     "price": 14000
   },
   {
     "id": 7,
-    "name": "Båt",
+    "name": "SP660",
     "imageUrl": "https://mickesmotor.se/wp-content/uploads/2021/09/SharkCaretta-1.jpg",
     "price": 18000
   },
   {
     "id": 8,
-    "name": "Båt",
+    "name": "Cortes 44",
     "imageUrl": "https://mickesmotor.se/wp-content/uploads/2018/07/begbat-768x330.jpg",
     "price": 14000
   },
   {
     "id": 9,
-    "name": "Båt",
+    "name": "Flipper",
     "imageUrl": "https://johanskoogarkitekt.se/wp-content/uploads/2020/04/b%C3%A5t-i-havet-800x500.jpg",
     "price": 16000
   }
